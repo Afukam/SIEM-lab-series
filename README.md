@@ -18,6 +18,10 @@ The goal of this series is to practise the core security operations workflow: ge
 - Focus: Splunk Enterprise, Universal Forwarder setup, log ingestion, searches, reports, and dashboards.
 - Evidence: see the `SIEM 2/` directory.
 
+## Detection engineering documentation
+
+Use the [Detection Validation Record](./DETECTION-VALIDATION-TEMPLATE.md) to document each detection exercise consistently. Record the exact query or rule, telemetry prerequisites, controlled test, observed result, false-positive considerations, and limitations.
+
 ## What This Series Demonstrates
 
 - Foundational SIEM deployment and configuration.
