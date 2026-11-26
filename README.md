@@ -10,13 +10,13 @@ The goal of this series is to practise the core security operations workflow: ge
 
 - Walkthrough: [SIEM Lab 1 — Elastic SIEM](https://afukamwrites.hashnode.dev/siem-lab-1)
 - Focus: Elastic deployment, endpoint telemetry, event searches, dashboard visualizations, and a basic detection/alerting exercise.
-- Evidence: see the `SIEM 1/` directory.
+- Evidence: see the [SIEM 1 evidence checklist](./SIEM%201/EVIDENCE-README.md).
 
 ### Lab 2 — Splunk
 
 - Walkthrough: [SIEM Lab 2 — Splunk](https://afukamwrites.hashnode.dev/siem-lab-2)
 - Focus: Splunk Enterprise, Universal Forwarder setup, log ingestion, searches, reports, and dashboards.
-- Evidence: see the `SIEM 2/` directory.
+- Evidence: see the [SIEM 2 evidence checklist](./SIEM%202/EVIDENCE-README.md).
 
 ## Detection engineering documentation
 
